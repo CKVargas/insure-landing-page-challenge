@@ -1,0 +1,11 @@
+:root {
+	--clr-accent: hsl(256, 26%, 20%);
+	--clr-primary: hsl(216, 30%, 68%);
+	--clr-neutral-100: hsl(0, 0%, 98%);
+	--clr-neutral-200: hsl(273, 4%, 51%);
+	--clr-neutral-300: hsl(270, 9%, 17%);
+	--fw-normal: 400;
+	--fw-bold: 700;
+	--ff-primary: "Karla", sans-serif;
+	--ff-heading: "DM Serif Display", serif;
+}
